@@ -1,0 +1,15 @@
+{
+    "name": "jinjie/ssgallery",
+    "description": "SilverStripe Gallery",
+    "type": "silverstripe-module",
+    "authors": [
+        {
+            "name": "Kong Jin Jie",
+            "email": "jinjie@swiftdev.sg"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.6",
+        "bummzack/sortablefile": "^1.2"
+    }
+}
